@@ -51,7 +51,6 @@ Documentation
 -------------
 You can find the plugin documentation in the docs/ directory. You can also find the documentation, as well as a live sample, at **[http://labs.mikeeverhart.net/helpspot](http://labs.mikeeverhart.net/helpspot "Documentation and a Live Sample")**
 
-
 Plugin Author
 --------------
 This plugin was created by Mike Everhart. You can find me around the web at:
@@ -60,13 +59,11 @@ This plugin was created by Mike Everhart. You can find me around the web at:
 * My Side Project: [plasticbrain.net](http://www.plasticbrain.net "My part time project")
 * My Social Life: [Facebook](https://www.facebook.com/plasticbrain "Friend me on Facebook!")
 
-
 Reporting Bugs
 --------------
 So you found a bug? Hey, nobody's perfect, right?
 
 Please submit all bug reports to: **[bugs@plasticbrain.net](mailto:bugs@plasticbrain.net "Submit a Bug")**
-
 
 Suggestions & Improvements
 --------------------------
@@ -74,3 +71,7 @@ Got an idea to make this plugin even better? Well, lucky for you, you have two c
 
 * Email your suggestions to **[feedback@plasticbrain.net](mailto:feedback@plasticbrain.net "Submit Feedback")**
 * Or, you can even fork this plugin and create your own version!
+
+Future Plans
+------------
+The main downside to the plugin in its current state is that it loads the forms within an iFrame. In the next version, I'd like to get rid of the iFrame and replace it with a lightbox.
