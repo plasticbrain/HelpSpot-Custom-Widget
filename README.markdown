@@ -63,7 +63,7 @@ Reporting Bugs
 --------------
 So you found a bug? Hey, nobody's perfect, right?
 
-Please submit all bug reports to: **[bugs@plasticbrain.net](mailto:bugs@plasticbrain.net "Submit a Bug")**
+Please use [GitHub's Issue Tracker](https://github.com/plasticbrain/HelpSpot-Custom-Widget/issues/new "Submit a Bug") to submit a bug report.
 
 Suggestions & Improvements
 --------------------------
