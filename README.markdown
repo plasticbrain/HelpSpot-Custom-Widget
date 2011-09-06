@@ -1,6 +1,9 @@
 Custom HelpSpot Widget
 ======================
 
+PLEASE NOTE:
+============
+This version is longer supported. [Please go here to get the latest version](https://github.com/plasticbrain/HelpSpot-Custom-Widget-1.0 "The latest version").
 
 Description
 -----------
